@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T08:23:51.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="3XX8Kj1O1pkTRJT1K8AX" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T09:10:11.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="8KK7w1JD8v345R0mCUA7" version="22.1.21" type="github">
   <diagram name="第 1 页" id="tW3CXmPOTFtlpqPluhd4">
-    <mxGraphModel dx="1425" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1653" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CNmatFPKbzWSkCiTwap3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="100" width="450" height="120" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="440" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-3" value="驱动板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="190" width="90" height="30" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="460" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="380" width="505" height="260" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-3" value="驱动板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="140" height="280" as="geometry" />
         </mxCell>
         <mxCell id="CNmatFPKbzWSkCiTwap3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-5" target="CNmatFPKbzWSkCiTwap3-9">
           <mxGeometry relative="1" as="geometry" />
@@ -19,91 +22,164 @@
         <mxCell id="CNmatFPKbzWSkCiTwap3-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-5" target="CNmatFPKbzWSkCiTwap3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-5" value="TC264D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="490" width="110" height="67.5" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-5" value="TC264D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="410" y="491.25" width="110" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-6" value="TFT Display" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="498.75" width="80" height="50" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-6" value="TFT Display" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="555" y="500" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-7" value="Bottom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="575" width="80" height="50" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-7" value="Bottom" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="555" y="576.25" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-8" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="420" width="80" height="50" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-8" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="555" y="421.25" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-9" value="Motor PWM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443.75" y="420" width="92.5" height="40" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-9" value="Motor PWM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="418.75" y="421.25" width="92.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-10" value="ServoMotor&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443.75" y="585" width="92.5" height="40" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-10" value="ServoMotor&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Driver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="418.75" y="586.25" width="92.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CNmatFPKbzWSkCiTwap3-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-5" target="CNmatFPKbzWSkCiTwap3-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="670" as="sourcePoint" />
-            <mxPoint x="270" y="620" as="targetPoint" />
+            <mxPoint x="195" y="671.25" as="sourcePoint" />
+            <mxPoint x="245" y="621.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CNmatFPKbzWSkCiTwap3-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-5" target="CNmatFPKbzWSkCiTwap3-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="670" as="sourcePoint" />
-            <mxPoint x="270" y="620" as="targetPoint" />
+            <mxPoint x="195" y="671.25" as="sourcePoint" />
+            <mxPoint x="245" y="621.25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="507" />
-              <mxPoint x="560" y="445" />
+              <mxPoint x="535" y="508.25" />
+              <mxPoint x="535" y="446.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CNmatFPKbzWSkCiTwap3-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-5" target="CNmatFPKbzWSkCiTwap3-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="670" as="sourcePoint" />
-            <mxPoint x="270" y="620" as="targetPoint" />
+            <mxPoint x="195" y="671.25" as="sourcePoint" />
+            <mxPoint x="245" y="621.25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="540" />
-              <mxPoint x="560" y="600" />
+              <mxPoint x="535" y="541.25" />
+              <mxPoint x="535" y="601.25" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-23" value="Undervoltage Alarm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="595" width="100" height="30" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-23" value="Undervoltage Alarm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="620" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-24" value="Boost升压12V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="545" width="100" height="30" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-25" value="Batter(11.5V)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="570" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-25" value="Batter(11.5V)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="495" width="100" height="30" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-26" target="CNmatFPKbzWSkCiTwap3-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="461" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-26" value="Buck降压5V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="440" width="100" height="30" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-26" value="Buck降压5V" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="518.75" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CNmatFPKbzWSkCiTwap3-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-27" target="CNmatFPKbzWSkCiTwap3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-27" value="LDO降压3.3V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="390" width="100" height="30" as="geometry" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-27" value="LDO&lt;br&gt;降压3.3V" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="431.25" width="50" height="58.75" as="geometry" />
         </mxCell>
         <mxCell id="CNmatFPKbzWSkCiTwap3-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-25" target="CNmatFPKbzWSkCiTwap3-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="510" as="sourcePoint" />
-            <mxPoint x="270" y="460" as="targetPoint" />
+            <mxPoint x="220" y="540" as="sourcePoint" />
+            <mxPoint x="270" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-26" target="CNmatFPKbzWSkCiTwap3-27">
+        <mxCell id="CNmatFPKbzWSkCiTwap3-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="CNmatFPKbzWSkCiTwap3-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="510" as="sourcePoint" />
-            <mxPoint x="270" y="460" as="targetPoint" />
+            <mxPoint x="300" y="600" as="sourcePoint" />
+            <mxPoint x="270" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-25" target="CNmatFPKbzWSkCiTwap3-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="510" as="sourcePoint" />
-            <mxPoint x="270" y="460" as="targetPoint" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-34" value="主控板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="560" y="380" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-38" target="CNmatFPKbzWSkCiTwap3-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="350" />
+              <mxPoint x="295" y="350" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CNmatFPKbzWSkCiTwap3-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-24" target="CNmatFPKbzWSkCiTwap3-23">
+        <mxCell id="CNmatFPKbzWSkCiTwap3-38" value="电源管理模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-43" target="CNmatFPKbzWSkCiTwap3-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-43" value="Boost&lt;br&gt;升压12V" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="431.25" width="50" height="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="510" as="sourcePoint" />
-            <mxPoint x="270" y="460" as="targetPoint" />
+            <mxPoint x="320" y="460.57" as="sourcePoint" />
+            <mxPoint x="280" y="460.57" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-46" value="EgdeBoard FZ3B" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="45" y="500" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-49" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-4" target="CNmatFPKbzWSkCiTwap3-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="560" as="sourcePoint" />
+            <mxPoint x="540" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-50" value="无线串口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="488.75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-51" value="PC" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="55" y="585" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-46" target="CNmatFPKbzWSkCiTwap3-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="520" as="sourcePoint" />
+            <mxPoint x="560" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-54" value="无线网卡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="548.75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-59" target="CNmatFPKbzWSkCiTwap3-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-59" value="缓冲电路" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="275" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-60" target="CNmatFPKbzWSkCiTwap3-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-60" value="HIP4082" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="275" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-9" target="CNmatFPKbzWSkCiTwap3-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="590" as="sourcePoint" />
+            <mxPoint x="600" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="465" y="360" />
+              <mxPoint x="618" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-66" value="Motor" style="whiteSpace=wrap;html=1;rounded=0;direction=west;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="230" y="267.19" width="80" height="45.63" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-68" target="CNmatFPKbzWSkCiTwap3-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-68" value="HIP4082" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="275" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
