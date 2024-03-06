@@ -1,9 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T07:41:16.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="22.1.21" etag="jpBOQyItyg1_1ocyHLl5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T08:23:51.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="3XX8Kj1O1pkTRJT1K8AX" version="22.1.21" type="github">
   <diagram name="第 1 页" id="tW3CXmPOTFtlpqPluhd4">
-    <mxGraphModel>
+    <mxGraphModel dx="1425" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CNmatFPKbzWSkCiTwap3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="450" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-3" value="驱动板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="505" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-5" target="CNmatFPKbzWSkCiTwap3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-5" target="CNmatFPKbzWSkCiTwap3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-5" value="TC264D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="490" width="110" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-6" value="TFT Display" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="498.75" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-7" value="Bottom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="575" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-8" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="420" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-9" value="Motor PWM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443.75" y="420" width="92.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-10" value="ServoMotor&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443.75" y="585" width="92.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-5" target="CNmatFPKbzWSkCiTwap3-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="670" as="sourcePoint" />
+            <mxPoint x="270" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-5" target="CNmatFPKbzWSkCiTwap3-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="670" as="sourcePoint" />
+            <mxPoint x="270" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="507" />
+              <mxPoint x="560" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-5" target="CNmatFPKbzWSkCiTwap3-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="670" as="sourcePoint" />
+            <mxPoint x="270" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="540" />
+              <mxPoint x="560" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-23" value="Undervoltage Alarm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="595" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-24" value="Boost升压12V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="545" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-25" value="Batter(11.5V)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="495" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-26" value="Buck降压5V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-27" target="CNmatFPKbzWSkCiTwap3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-27" value="LDO降压3.3V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-25" target="CNmatFPKbzWSkCiTwap3-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="510" as="sourcePoint" />
+            <mxPoint x="270" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-26" target="CNmatFPKbzWSkCiTwap3-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="510" as="sourcePoint" />
+            <mxPoint x="270" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-25" target="CNmatFPKbzWSkCiTwap3-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="510" as="sourcePoint" />
+            <mxPoint x="270" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNmatFPKbzWSkCiTwap3-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNmatFPKbzWSkCiTwap3-24" target="CNmatFPKbzWSkCiTwap3-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="510" as="sourcePoint" />
+            <mxPoint x="270" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
